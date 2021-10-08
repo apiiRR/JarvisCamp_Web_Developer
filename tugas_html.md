@@ -15,8 +15,7 @@ Buatlah sebuah file index.html yang akan menampilkan halaman seperti berikut:
 ### Buat halaman form<br/><br/>
 
 Buatlah file baru bernama form.html yang berisi form seperti berikut :
-
-nb: Gunakan Element Form untuk Menuju ke welcome.html
+nb: Gunakan Element Form untuk Menuju ke welcome.html<br/><br/>
 ![alt text](kedua.png)<br/><br/>
 
 ### Buat halaman selamat datang<br/><br/>
