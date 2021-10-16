@@ -8,16 +8,16 @@ Soal terdapat dalam sintaks komentar pada tag script. jangan ubah baris code yan
 
 ### 2. Soal Function 
 Soal ditulis dalam sintaks komentar pada tag script . Baca instruksi dengan benar, tempatkan kode kalian di tempat yang tepat.<br/>
-[function.html](source/function.html)<br/><br/>
+<a href="source/function.html" download>Soal Function</a><br/><br/>
 
 ### 3. Soal Kondisional 
 Soal ditulis dalam sintaks komentar, baca terlebih dahulu instruksi soal lalu mulai menulis kode.<br/>
-[kondisional.html](source/kondisional.html)<br/><br/>
+<a href="source/kondisional.html" download>Soal Kondisional</a><br/><br/>
 
 ### 4. Soal Looping 
 soal ditulis dalam sintaks komentar, baca terlebih dahulu instruksi soal.<br/>
-[looping.html](source/looping.html)<br/><br/>
+<a href="source/looping.html" download>Soal Looping</a><br/><br/>
 
 ### 5. Soal Array 
 Soal ditulis dalam sintaks komentar, baca terlebih dahulu instruksi soal lalu mulai menulis jawaban.<br/>
-[array.html](source/array.html)<br/><br/>
+<a href="source/array.html" download>Soal Array</a><br/><br/>
