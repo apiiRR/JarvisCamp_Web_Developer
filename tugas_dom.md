@@ -11,9 +11,11 @@ Terdapat sebuah template html bernama index.html. Halaman ini adalah sebuah mini
 
 ## Release 0 <br/>
 Halaman index html ketika pertama diload akan menampilkan seluruh barang yang tersedia di mini-ecommerce. Misalkan terdapat data yang kita peroleh dari Database seperti berikut:<br/><br/>
+
 ************
+
 <br/>
-var items = [<br/>
+var items = [ <br/>
     ['001', 'Keyboard Logitek', 60000, 'Keyboard yang mantap untuk kantoran', 'logitek.jpg'],<br/>
     ['002', 'Keyboard MSI', 300000, 'Keyboard gaming MSI mekanik', 'msi.jpg'],<br/>
     ['003', 'Mouse Genius', 50000, 'Mouse Genius biar lebih pinter', 'genius.jpeg'],<br/>
