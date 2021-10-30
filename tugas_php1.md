@@ -16,4 +16,4 @@ Buatlah sebuah file dengan nama string.php yang disimpan di dalam folder php-1 l
 ## 2. Soal Array
 <br/>
 Buatlah sebuah file dengan nama array.php yang disimpan di dalam folder php-1 lalu salin kode di bawah ini:<br/>
-<a href="source/php1/array.php" download>soal_array.php</a><br/><br/><br/>
+<a href="source/php1/soal_array.php" download>soal_array.php</a><br/><br/><br/>
